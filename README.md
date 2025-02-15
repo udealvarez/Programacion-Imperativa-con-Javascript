@@ -25,12 +25,12 @@ Cada módulo contiene clases separadas por temas, facilitando el aprendizaje pro
 La organización de los archivos sigue la estructura de los módulos mencionados:
 ```
 📦 Programación-Imperativa-JS
- ┣ 📂 modulo-1-presentacion
- ┣ 📂 modulo-2-presentacion-computacional
- ┣ 📂 modulo-3-introduccion-js
- ┣ 📂 modulo-4-js-intermedio
- ┣ 📂 modulo-5-js-avanzado
- ┗ 📂 modulo-6-algoritmos
+ ┣ 📂 1-Entorno
+ ┣ 📂 2-Funciones
+ ┣ 📂 3-Controlando-flujo-app
+ ┣ 📂 4-Duelo-de-Variable
+ ┣ 📂 5-Integracion-de-contenidos-1
+ ┗ 📂 6-Aplicaciones-de-habilidades-adquiridas
 ```
 Cada carpeta contiene los archivos y recursos utilizados en el curso.
 
@@ -39,15 +39,13 @@ Cada carpeta contiene los archivos y recursos utilizados en el curso.
 ## 🚀 ¿Cómo utilizar este repositorio?
 
 1. **Clona el repositorio**
-   ```sh
-   git clone https://github.com/tu_usuario/Programacion-Imperativa-JS.git
-   ```
+   
+   git clone https://github.com/udealvarez/Programacion-Imperativa-JS.git
+   
 2. **Navega al directorio**
-   ```sh
-   cd Programacion-Imperativa-JS
-   ```
-3. **Explora los módulos y clases**
 
+   cd Programacion-Imperativa-JS
+   
 ---
 
 ## 🤝 Contribuciones
