@@ -13,7 +13,7 @@ function unirArrays(array1, array2){
                                 // Array1 CONCATENA array2
 }
 
-let arreglo = [4,5,6];
-let resultadoDeUnion = unirArrays([1,2,3], arreglo);
-
+let arreglo = [6,7,8,9];
+let resultadoDeUnion = unirArrays([1,2,3,4,5], arreglo);
+  
 console.log(resultadoDeUnion);
