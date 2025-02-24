@@ -29,11 +29,11 @@ let gastoMensual = [
 ]
 
 function gastoUnDiaDeSemana(dia, gastoMensual){
-/*
+
     if (dia < 0 || dia > 7) {
         return "dia invalido";
     }
-*/
+
     let total = 0;
 
     for (let semana = 0; semana < gastoMensual.length; semana++) {
